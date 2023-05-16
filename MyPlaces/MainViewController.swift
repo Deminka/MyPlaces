@@ -15,6 +15,8 @@ class MainViewController: UITableViewController {
         "Speak Easy", "Morris Pub", "Вкусные истории",
         "Классик", "Love&Life", "Шок", "Бочка"
     ]
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()

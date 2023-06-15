@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		040F8A122A1624DF007EC0F9 /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040F8A112A1624DF007EC0F9 /* NewPlaceViewController.swift */; };
+		043B8CDD2A3332F7001CB2B7 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043B8CDC2A3332F7001CB2B7 /* RatingControl.swift */; };
 		045F2F9F2A123430009E74D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045F2F9E2A123430009E74D2 /* AppDelegate.swift */; };
 		045F2FA12A123430009E74D2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045F2FA02A123430009E74D2 /* SceneDelegate.swift */; };
 		045F2FA62A123430009E74D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 045F2FA42A123430009E74D2 /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		040F8A112A1624DF007EC0F9 /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
+		043B8CDC2A3332F7001CB2B7 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		045F2F9B2A123430009E74D2 /* MyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		045F2F9E2A123430009E74D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		045F2FA02A123430009E74D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,8 +79,9 @@
 				045F2FB62A13A6A2009E74D2 /* PlaceModel.swift */,
 				048DA30C2A1B75A8000184D2 /* StorageManager.swift */,
 				045F2FA02A123430009E74D2 /* SceneDelegate.swift */,
-				045F2FA42A123430009E74D2 /* Main.storyboard */,
 				045F2FB42A1399BD009E74D2 /* CustomTableViewCell.swift */,
+				043B8CDC2A3332F7001CB2B7 /* RatingControl.swift */,
+				045F2FA42A123430009E74D2 /* Main.storyboard */,
 				045F2FA72A123434009E74D2 /* Assets.xcassets */,
 				045F2FA92A123434009E74D2 /* LaunchScreen.storyboard */,
 				045F2FAC2A123434009E74D2 /* Info.plist */,
@@ -222,6 +225,7 @@
 				040F8A122A1624DF007EC0F9 /* NewPlaceViewController.swift in Sources */,
 				045F2F9F2A123430009E74D2 /* AppDelegate.swift in Sources */,
 				048DA30D2A1B75A8000184D2 /* StorageManager.swift in Sources */,
+				043B8CDD2A3332F7001CB2B7 /* RatingControl.swift in Sources */,
 				045F2FB72A13A6A2009E74D2 /* PlaceModel.swift in Sources */,
 				045F2FB52A1399BD009E74D2 /* CustomTableViewCell.swift in Sources */,
 				045F2FA12A123430009E74D2 /* SceneDelegate.swift in Sources */,
